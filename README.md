@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to epigenesis
 
-You can use the [editor on GitHub](https://github.com/brendonmm/epigenesis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_epigenesis_ is a **new** code standard framework which wants to help you to develop and deploy Web Applications without syntax errors, grammar faults, duplicated content, and attributes, and with a real _epigeneses_ experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+But,
 
-### Markdown
+### What is the Epigenesis?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_noun_ | epi·gen·e·sis
 
-```markdown
-Syntax highlighted code block
+> “[epigenesis](https://www.merriam-webster.com/dictionary/epigenesis) development of a plant or animal from an egg or spore through a series of processes in which unorganized cell masses differentiate into organs and organ systems”;
 
-# Header 1
-## Header 2
-### Header 3
+That’s the base for [Epigenetic Theory](https://www.merriam-webster.com/dictionary/epigenetic), which says that “chemical changes to DNA and its associated proteins—that modify gene activity without altering the genetic information itself”.
 
-- Bulleted
-- List
+**TL;DR** they says that if you are changed by the environment it don't will change your genetics itself, only your external “layout”.
 
-1. Numbered
-2. List
+This is what we think about development. The gene itself is just the litle piece of what is deployed, but, if the environment can changes and defines the “visible” you, why can’t should I make the cern better?
 
-**Bold** and _Italic_ and `Code` text
+Yeah, this is a _nonsense_ argument, which below are explained for a dev human, or, a AI machine, Doctor Who knows? Let’s make _epigeneses_.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Got feedback?
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brendonmm/epigenesis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please create a [GitHub Issue](https://github.com/brendonmm/epigenesis/issues).
