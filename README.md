@@ -4,11 +4,11 @@ _epigenesis_ is a **new** code standard framework which wants to help you to dev
 
 But,
 
-### What is the epigenesis?
+### What is the [epigenesis](https://www.merriam-webster.com/dictionary/epigenesis)?
 
 _noun_ | epi·gen·e·sis
 
-> “[epigenesis](https://www.merriam-webster.com/dictionary/epigenesis) development of a plant or animal from an egg or spore through a series of processes in which unorganized cell masses differentiate into organs and organ systems”;
+> “development of a plant or animal from an egg or spore through a series of processes in which unorganized cell masses differentiate into organs and organ systems”;
 
 That’s the base for [Epigenetic Theory](https://www.merriam-webster.com/dictionary/epigenetic), which says that “chemical changes to DNA and its associated proteins—that modify gene activity without altering the genetic information itself”.
 
@@ -42,6 +42,7 @@ Yeah, this is a _nonsense_ argument, which below are explained for a dev human, 
     - [SUITCSS](#suitcss)
 
 
+6. [References](#references)
 
 7. [Articles](#articles)
 
@@ -123,6 +124,7 @@ Structured class names and meaningful hyphens.
 
 
 
+## References
 
 [1]: https://github.com/necolas/idiomatic-css
 [2]: https://github.com/nemophrost/atomic-css
@@ -131,12 +133,12 @@ Structured class names and meaningful hyphens.
 [5]: https://en.bem.info/methodology/css/
 [6]: http://suitcss.github.io/
 
-[7]: https://cssguidelin.es
-[8]: https://isobar-us.github.io/code-standards/
-[9]: https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS
-[10]: https://google.github.io/styleguide/htmlcssguide.html
-[11]: https://make.wordpress.org/core/handbook/best-practices/coding-standards/css
-[12]: https://codex.wordpress.org/CSS_Shorthand
+- https://cssguidelin.es
+- https://isobar-us.github.io/code-standards/
+- https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS
+- https://google.github.io/styleguide/htmlcssguide.html
+- https://make.wordpress.org/core/handbook/best-practices/coding-standards/css
+- https://codex.wordpress.org/CSS_Shorthand
 
 
 ## Articles
