@@ -41,6 +41,8 @@ Yeah, this is a _nonsense_ argument, which below are explained for a dev human, 
     - [SMACSS](#smacss)
     - [SUITCSS](#suitcss)
 
+
+
 7. [Articles](#articles)
 
 
@@ -100,11 +102,14 @@ Work in progress.
 ## Others Methodologies
 Work in progress.
 
+### [Atomic][2]
+Breaking down styles into atomic, or indivisible, pieces.
+
 ### [BEM][5]
 Short Description.
 
-### [Atomic][2]
-Breaking down styles into atomic, or indivisible, pieces.
+### [Idiomatic][1]
+Short Description.
 
 ### [OOCSS][3]
 Separating container and content with CSS “objects”.
@@ -114,10 +119,6 @@ Style-guide to write your CSS with five categories for CSS rules.
 
 ### [SUITCSS][6]
 Structured class names and meaningful hyphens.
-
-### [Idiomatic][1]
-Short Description.
-
 
 
 
